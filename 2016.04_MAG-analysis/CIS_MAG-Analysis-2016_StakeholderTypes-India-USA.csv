@@ -1,0 +1,11 @@
+StakeholderType,Count,India,USA
+Academia,Member,1,0
+Academia,Year,3,0
+Civil Society,Member,1,5
+Civil Society,Year,2,11
+Technical,Member,0,2
+Technical,Year,0,4
+Industry,Member,3,11
+Industry,Year,7,31
+Government,Member,3,1
+Government,Year,11,3
